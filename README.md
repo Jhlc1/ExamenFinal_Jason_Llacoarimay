@@ -54,8 +54,8 @@
 12. **¿Qué acción se ejecuta cuando se usa el comando `git checkout mi_branch`?**
 	- [ ] Uno se traslada hacia la rama "mi_branch"
 	- [ ] Uno se traslada de la rama mi_branch a la rama master
-	- [ ] Se ve la historia de la rama mi_branch
-	- [ ] Se crea una rama denominada mi_branch
+	- [ ] Se ve la historia de la rama "mi_branch"
+	- [ ] Se crea una rama denominada "mi_branch"
 13. **¿Cuál es el comando usado para ver todos los repositorios remotos que tenemos?**
 	- [ ] `git remote -v`
 	- [ ] `git remote --total`
