@@ -2,6 +2,9 @@
 
 ## Parte práctica
 
+1. Usando la interface web de GitHub, crear un repositorio publico llamado "cerseu_git_abril24". Indicar el URL del repositorio creado
+3. Desde su computadora local, clonar el repositorio de GitHub creado en la pregunta anterior. Indicar los comandos utilizados y la salida en la consola del sistema
+4. En el directorio local de trabajo, crear tres o cuatro archivos conforme al siguiente formato: `<primer-nombre>.txt`, `<segundo-nombre>.txt`, `<apellido-paterno>.txt`, `<apellido-materno>.txt` (Ejemplo: `juan.txt`, `perez.txt`, `garcia.txt`). A cada archivo agregar cualquier texto. Indicar los comandos utilizados y la salida en la consola del sistema
 
 ## Parte teórica
 
