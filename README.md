@@ -6,7 +6,7 @@
 2. Desde su computadora local, clonar el repositorio creado en GitHub en la pregunta anterior. Indicar los comandos utilizados y la salida en la consola del sistema
 3. En el directorio local de trabajo, crear tres o cuatro archivos conforme al siguiente formato: `<primer-nombre>.txt`, `<segundo-nombre>.txt`, `<apellido-paterno>.txt`, `<apellido-materno>.txt` (ejemplo: `juan.txt`, `perez.txt`, `garcia.txt`). A cada archivo agregar cualquier texto. Indicar los comandos utilizados y la salida en la consola del sistema
 5. Guardar esos archivos en su repositorio remoto (es decir, en GitHub). Indicar los comandos utilizados y la salida en la consola del sistema
-6. Añadir un archivo `.gitignore` que nos permita ignorar cualquier archivo con extension `*.pdf`, `*.xml`, y ``*.zip` de nuestro repositorio 
+6. Añadir un archivo `.gitignore` que nos permita ignorar cualquier archivo con extension `*.pdf`, `*.xml`, y `*.zip` de nuestro repositorio 
 
 ## Parte teórica
 
