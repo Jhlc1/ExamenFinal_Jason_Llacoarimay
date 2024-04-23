@@ -1,15 +1,17 @@
-# Examen final de git
+# Evaluación Curso "Control de Versiones con Git y GitHub" de Abril 2024
 
-## Parte práctica
+Esta evaluación examina algunos conocimientos teóricos y habilidades prácticas en el uso de Git y GitHub.
 
-1. Usando la interface web de GitHub, crear un repositorio publico llamado "cerseu_git_abril24". Indicar el URL del repositorio creado
-2. Desde su computadora local, clonar el repositorio creado en GitHub en la pregunta anterior. Indicar los comandos utilizados y la salida en la consola del sistema
-3. En el directorio local de trabajo, crear tres o cuatro archivos conforme al siguiente formato: `<primer-nombre>.txt`, `<segundo-nombre>.txt`, `<apellido-paterno>.txt`, `<apellido-materno>.txt` (ejemplo: `juan.txt`, `perez.txt`, `garcia.txt`). Dichos archivos pueden tener cualquier texto como contenido. Indicar los comandos utilizados y la salida en la consola del sistema
-5. Guardar esos archivos en su repositorio remoto (es decir, en GitHub). Indicar los comandos utilizados y la salida en la consola del sistema
-6. Añadir un archivo `.gitignore` que permita ignorar cualquier archivo con extensión `*.pdf`, `*.xml`, y `*.zip` de nuestro repositorio.  Guardar esos archivos en su repositorio remoto. Indicar los comandos utilizados y la salida en la consola del sistema
-7. Crear una rama de git (branch) llamada "bio". En esta rama añadir el archivo `biografia.md`. El contenido de este archivo debe ser su propia biografia en no mas de tres oraciones.  Guardar este archivo en su repositorio remoto. Indicar los comandos utilizados y la salida en la consola del sistema
-8. Usando la interface web de GitHub, crear un _Pull Request_ para incorporar los cambios de la rama "bio" en la rama "main". Aprobar el _Pull Request_. Mostrar las capturas de pantalla relevantes
-9. En el directorio local de trabajo, ejecutar `git pull`. Indicar los comandos utilizados y la salida en la consola del sistema
+## Puntaje
+
+**IMPORTANTE**: la nota aprobatoria mínima es **11**.
+
+| Parte   | Puntaje|
+|:--------|:------:|
+| Teorica | 10     |
+| Practica| 10     |
+| ======= |======  |
+| Total   | 20     |
 
 ## Parte teórica
 
@@ -83,3 +85,14 @@ Marcar la(s) respuestas correctas.
 	- [ ] Unir dos o más ramas de un repositorio
 	- [ ] Unir dos repositorios globales
 	- [ ] Corregir una commit errado o incompleto
+
+## Parte práctica
+
+1. Usando la interface web de GitHub, crear un repositorio publico llamado "cerseu_git_abril24". Indicar el URL del repositorio creado
+2. Desde su computadora local, clonar el repositorio creado en GitHub en la pregunta anterior. Indicar los comandos utilizados y la salida en la consola del sistema
+3. En el directorio local de trabajo, crear tres o cuatro archivos conforme al siguiente formato: `<primer-nombre>.txt`, `<segundo-nombre>.txt`, `<apellido-paterno>.txt`, `<apellido-materno>.txt` (ejemplo: `juan.txt`, `perez.txt`, `garcia.txt`). Dichos archivos pueden tener cualquier texto como contenido. Indicar los comandos utilizados y la salida en la consola del sistema
+4. Guardar esos archivos en su repositorio remoto (es decir, en GitHub). Indicar los comandos utilizados y la salida en la consola del sistema
+5. Añadir un archivo `.gitignore` que permita ignorar cualquier archivo con extensión `*.pdf`, `*.xml`, y `*.zip` de nuestro repositorio.  Guardar esos archivos en su repositorio remoto. Indicar los comandos utilizados y la salida en la consola del sistema
+6. Crear una rama de git (branch) llamada "bio". En esta rama añadir el archivo `biografia.md`. El contenido de este archivo debe ser su propia biografia en no mas de tres oraciones.  Guardar este archivo en su repositorio remoto. Indicar los comandos utilizados y la salida en la consola del sistema
+7. Usando la interface web de GitHub, crear un _Pull Request_ para incorporar los cambios de la rama "bio" en la rama "main". Aprobar el _Pull Request_. Mostrar las capturas de pantalla relevantes
+8. En el directorio local de trabajo, ejecutar `git pull`. Indicar los comandos utilizados y la salida en la consola del sistema
