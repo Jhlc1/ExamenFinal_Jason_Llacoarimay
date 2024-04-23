@@ -52,7 +52,7 @@
 	- [ ] `git branch mi_branch`
 	- [ ] `git add branch "mi_branch"`
 12. **¿Qué acción se ejecuta cuando se usa el comando `git checkout mi_branch`?**
-	- [ ] Uno se traslada hacia la rama mi_branch
+	- [ ] Uno se traslada hacia la rama "mi_branch"
 	- [ ] Uno se traslada de la rama mi_branch a la rama master
 	- [ ] Se ve la historia de la rama mi_branch
 	- [ ] Se crea una rama denominada mi_branch
