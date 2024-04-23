@@ -44,7 +44,7 @@
 10. **¿Qué resultado se observa si se usa el comando `git log`?**
 	- [ ] La historia de los commits del repositorio
 	- [ ] El status del repositorio
-	- [ ] El número de branches de un repositorio
+	- [ ] El número de ramas (branches) de un repositorio
 	- [ ] Los archivos dentro del área de preparación
 11. **¿Cuál es el comando usado para crear una nueva rama (branch) llamada "mi_branch"?**
 	- [ ] `git branch new mi_branch`
