@@ -1,5 +1,11 @@
 # Examen final de git
-### Marcar la(s) respuestas correctas
+
+## Parte práctica
+
+
+## Parte teórica
+
+Marcar la(s) respuestas correctas.
 
 1. **¿Qué es git?**
 	- [ ] Un nombre alternativo de GitHub
