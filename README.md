@@ -6,7 +6,7 @@ Esta evaluación examina algunos conocimientos teóricos y habilidades práctica
 
 ## Plazo de entrega
 
-03 de Abril de 2024.
+02 de Mayo de 2024.
 
 ## Puntaje
 
