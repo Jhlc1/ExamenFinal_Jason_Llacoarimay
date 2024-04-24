@@ -2,11 +2,11 @@
 
 Esta evaluación examina algunos conocimientos teóricos y habilidades prácticas en el uso de Git y GitHub.
 
-**IMPORTANTE**: las respuestas deben guardarse en un repositorio en GitHub que cada participante debe crear. El link de tal repositorio se debe enviar a los docentes del curso.
-
 ## Plazo de entrega
 
 02 de Mayo de 2024.
+
+**IMPORTANTE**: las respuestas deben guardarse en un repositorio en GitHub que cada participante debe crear. El link de tal repositorio se debe enviar a los docentes del curso.
 
 ## Puntaje
 
