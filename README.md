@@ -26,48 +26,48 @@ Marcar la(s) respuestas correctas.
 1. **¿Qué es git?**
 	- [ ] Un nombre alternativo de GitHub
 	- [ ] Un lenguaje de programación
-	- [ ] Un sistema de control de versiones
+	- [X] Un sistema de control de versiones
 	- [ ] Una plataforma que almacena repositorios remotos
 2. **¿Cuáles son locaciones de git?**
-	- [ ] Working tree
-	- [ ] Área de preparación
+	- [X] Working tree
+	- [X] Área de preparación
 	- [ ] Repositorio Remoto
-	- [ ] Repositorio Local
+	- [X] Repositorio Local
 3. **¿Cuál es el comando usado para determinar la versión de git que tenemos instalada en nuestro sistema?**
-	- [ ] `git --version`
+	- [X] `git --version`
 	- [ ] `git -help version`
 	- [ ] `gitVersion`
 	- [ ] `git help Version`
 4. **¿Qué comando usamos para añadir todos los files del working tree al área de preparación?**
 	- [ ] `git add "file"`
-	- [ ] `git add .`
+	- [X] `git add .`
 	- [ ] `git add`
 5.  **¿Cuál es el comando para verificar el status del repositorio?**
-	- [ ] `git status`
+	- [X] `git status`
 	- [ ] `git status repository`
 	- [ ] `git --status`
 6. **¿Cuál es el comando usado para inicializar un repositorio git en una carpeta?**
 	- [ ] `git start`
-	- [ ] `git init`
+	- [X] `git init`
 	- [ ] `git initialize`
 	- [ ] `git --start`
 7. **¿Qué comando se usa para hacer un snapshot de nuestro repositorio?**
 	- [ ] `git save`
 	- [ ] `git snapshot`
-	- [ ] `git commit`
+	- [X] `git commit`
 	- [ ] `git --save`
 8. **¿Qué resultado se observa si se usa el comando `git log`?**
-	- [ ] La historia de los commits del repositorio
+	- [X] La historia de los commits del repositorio
 	- [ ] El status del repositorio
 	- [ ] El número de ramas (branches) de un repositorio
 	- [ ] Los archivos dentro del área de preparación
 9. **¿Qué acción se ejecuta cuando se usa el comando `git checkout mi_branch`?**
-	- [ ] Uno se traslada hacia la rama "mi_branch"
+	- [X] Uno se traslada hacia la rama "mi_branch"
 	- [ ] Uno se traslada de la rama mi_branch a la rama master
 	- [ ] Se ve la historia de la rama "mi_branch"
 	- [ ] Se crea una rama denominada "mi_branch"
 10. **¿Cuál es el objetivo de usar el comando `git merge`?**
-	- [ ] Unir dos o más ramas de un repositorio
+	- [X] Unir dos o más ramas de un repositorio
 	- [ ] Unir dos repositorios globales
 	- [ ] Corregir una commit errado o incompleto
 
